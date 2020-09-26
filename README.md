@@ -29,5 +29,5 @@ public class Main {
 }
 ```
 
-*Output code : * 
-![Output](/images/output.png)
+##### Output :
+![Output](output.png)
